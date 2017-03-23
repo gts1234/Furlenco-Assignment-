@@ -5,12 +5,12 @@ NOTE- To test the features you have to log on to www.rollside.com<br />
 Features Added:<br />
 1.Login With Facebook Plugin.<br />
 2.Create a Playlist.<br />
-3.Can Browse through all playlists shared and created by user.<br />
-4.Can Edit Playlist like Adding and Removing songs.<br />
+3.Browse through all playlists shared and created by user.<br />
+4.Edit Playlist like Adding and Removing songs.<br />
 5.Songs can be embedded from Soundcloud and Youtube.<br />
 6.Share Playlist with friends.<br />
 7.Play Song and Enjoy.<br />
-NOTE-Hosting used for website has less resources.I apologize for extra delay in testing assignment.
+NOTE-Hosting used for website has less resources.I apologize for extra delay in testing assignment.<br />
 
 Bonus Features:<br />
 1.Search is provided.<br />
@@ -45,6 +45,6 @@ All files are related to Assignment work.<br />
 12.Paste that code somewhere and from it URL given in src copy it paste in youtube field on my site(without quotes).<br /> 
 13.For Soundcloud,you have to copy embed Url Song ID.<br />
 14.Head on to Soundcloud.com click on any song and then click share,there is tab called Embed,there is a mentioned integer ID after
-"<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/ "...copy that ID and paste in SONG ID Field.
+"<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/ "...copy that ID and paste in SONG ID Field.Then Click ADD.
 
 
