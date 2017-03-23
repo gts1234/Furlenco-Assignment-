@@ -18,10 +18,17 @@ Bonus Features:<br />
 3.Can Play Music.<br />
 4.Metadata is figured out at Server Side.<br />
 
-ASSIGNMENT WORK:<br />
-1.index.php-line no.(36-92)
-2.
-
+RELATED TO ASSIGNMENT WORK:<br />
+1.index.php-line no.(36-92)<br />
+2.MyPlaylist.php - line no.(50-84,268-282)<br />
+3.ShowPlaylist.php - line no.(297-418)<br />
+4.track.php - line no.(293-336)<br />
+/Classes/<br />
+1.DisplayClass.php - line no.(618-726)<br />
+2.InterfaceClass.php- line no.(248-286)<br />
+3.LoginClass.php - line no.(259-280)<br />
+/PHP/<br />
+All files are related to Assignment work.<br />
 
 #Steps To Test Features:
 1.Open www.rollside.com<br />
