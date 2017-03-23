@@ -1,5 +1,8 @@
 # Furlenco-Assignment-
 This Project is a Music Web Application.<br />
+Technology Stack:<br />
+Frontend - BootStrap(HTML,CSS,Javascript)<br />
+Backend - PHP,MySQL<br />
 NOTE- To test the features you have to log on to www.rollside.com<br />
 
 Features Added:<br />
