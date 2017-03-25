@@ -2,7 +2,7 @@
     if($_POST)
     {
 
-    include('Script/DBConnection.php');
+    include('DBConnection.php');
     $pname=$_POST['pname'];
     $songid=$_POST['songid'];
     $flag=$_POST['fl'];
