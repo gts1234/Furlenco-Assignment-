@@ -44,7 +44,7 @@ All files are related to Assignment work.<br />
 8.Now repeat step no. 3 and click on that playlist in which you added song.<br />
 9.Song is there in playlist-you can listen to it or remove it.<br />
 10.On that page where songs of playlist are shown(Myplaylist.php),there are options to add soundcloud and youtube music.<br />
-11.To add youtube music head on to youtube and on it right click and select copy embed code.<br />
+11.To add youtube music head on to youtube video or music and on it right click and select copy embed code.<br />
 12.Paste that code somewhere and from it URL given in src copy it paste in youtube field on my site(without quotes).<br /> 
 13.For Soundcloud,you have to copy embed Url Song ID.<br />
 14.Head on to Soundcloud.com click on any song and then click share,there is tab called Embed,there is a mentioned integer ID after
